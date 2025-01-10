@@ -72,10 +72,6 @@ This project is a multi-threaded elevator scheduling system implemented in C. It
 - Implement scheduling algorithms for optimizing elevator movement.
 - Improve error handling and edge case management.
 
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute it as per the license terms.
-
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests for enhancements or bug fixes.
